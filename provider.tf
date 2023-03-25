@@ -1,6 +1,5 @@
 provider "aws" {
-  region  = "ap-northeast-1"
-  version = "2.49.0"
+  region = "ap-northeast-1"
 
   default_tags {
     tags = {
